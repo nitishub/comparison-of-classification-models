@@ -1,9 +1,11 @@
-#### EAS508 PROJECT 2 ####
+# Comparison of Classification Models. 
 
-# vmantrip-50485405
-# monicaev-50477989
-# azhan2-50478878
-# nkumar27-50485470
+# The objective is to compare the following classification algorithms on a particular dataset:
+# 1.	Linear Discriminant Analysis
+# 2.	Quadratic Discriminant Analysis
+# 3.	K Nearest Neighbors
+# 4.	Random Forest
+
 
 library(caret)
 
